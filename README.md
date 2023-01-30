@@ -9,6 +9,16 @@
 
 Base URL: [https://block-foundation.github.io/.assets/](https://block-foundation.github.io/.assets/)
 
+
+
+## Profiles
+
+[Block Foundation Profiles](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-iXAdTyrklVesw2B0dbT5vgLsU7suQ-nho-DY4rIpj-p_4dIXbCIC_OWrby9BrJvlrzt1zVJZNx5j/pubhtml)
+
+
+
+
+
 ## Copyright
 
 Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
